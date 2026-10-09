@@ -1,8 +1,8 @@
 class Ironmac < Formula
   desc "Hardened Web3 & Crypto Workstation Suite for macOS"
   homepage "https://github.com/0xaicrypto/ironmac"
-  url "https://github.com/0xaicrypto/ironmac/archive/refs/tags/v0.6.1.tar.gz"
-  sha256 "9cb1147feeca24a738852e824ec2b94bdb2ac33014fd1160b159bc4215b11388"
+  url "https://github.com/0xaicrypto/ironmac/archive/refs/tags/v0.6.2.tar.gz"
+  sha256 "d7a169330062e3bdf1b4bc6567fb8c70322b08386a6e2d5ba297057b9584fcca"
   license "MIT"
   head "https://github.com/0xaicrypto/ironmac.git", branch: "main"
 
